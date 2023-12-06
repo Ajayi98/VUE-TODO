@@ -1,0 +1,14 @@
+@import './base.css';
+
+#app {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: aqua;
+  border-radius: 10px;
+  display: grid;
+  font-weight: normal;
+  box-shadow: 0 0 10px #3f51b5;
+  
+}
+
